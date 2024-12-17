@@ -1,3 +1,4 @@
+
 ## Recovery Device Tree for the Samsung Galaxy A30
 
 ## How-to compile it:
